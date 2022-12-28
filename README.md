@@ -9,7 +9,7 @@ Setup Node React Environment is not easy and takes so much time. Especially when
 At first, select a suitable position in your Hard-Disk to download this. You should use a Terminal or PowerShell or any command-line prompt. Then write this to your command prompt.
 
 Download This Boilerplate 
-### `git clone https://github.com/rupam71/R.git`
+### `git clone https://github.com/yassermimouna/Mifa-Real-Estate-Server.git`
 Now it saves in a Directory called R. Now go there 
 ### `cd R`
 Now you have to install all npm module 
@@ -89,9 +89,6 @@ You are fine now.
 
 Happy Coding...
 
-
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 # Thank you for using and reading this.
 
